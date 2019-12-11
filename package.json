@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@neutrinojs/react": "9.0.0-rc.3"
+  }
+}
